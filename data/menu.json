@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Pizza", "price": 120 },
+  { "id": 2, "name": "Bánh mì kẹp thịt", "price": 80 },
+  { "id": 3, "name": "Gà rán", "price": 100 },
+  { "id": 4, "name": "Nước ngọt", "price": 20 },
+  { "id": 5, "name": "Phở", "price": 50 }
+]
